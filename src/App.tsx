@@ -37,7 +37,7 @@ function App() {
           <img src="/assets/nx.png" alt="SX Bet" className="w-full h-auto rounded-2xl" />
         </div>
         <div className="rounded-3xl overflow-hidden bg-muted-foreground/20 p-5 mb-5">
-          <img src="/assets/nx.png" alt="SX Bet" className="w-full h-auto rounded-2xl" />
+          <img src="/assets/nx2.png" alt="SX Bet" className="w-full h-auto rounded-2xl" />
         </div>
         <div className="flex flex-row gap-4 bg-muted-foreground/20 p-5 rounded-3xl items-center">
           <div className="flex flex-col gap-2">
