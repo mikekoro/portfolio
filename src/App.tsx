@@ -13,18 +13,18 @@ function App() {
           SX Bet is the largest decentralized sports betting platform in the world, with $1B+ in volume.
         </p>
         <div className="rounded-3xl overflow-hidden bg-muted-foreground/20 p-5 mb-5">
-          <img src="/public/assets/sxbet.png" alt="SX Bet" className="w-full h-auto rounded-2xl" />
+          <img src="/assets/sxbet.png" alt="SX Bet" className="w-full h-auto rounded-2xl" />
         </div>
         <div className="rounded-3xl overflow-hidden bg-muted-foreground/20 p-5 mb-5">
-          <img src="/public/assets/before-after.jpg" alt="SX Bet" className="w-full h-auto rounded-2xl" />
+          <img src="/assets/before-after.jpg" alt="SX Bet" className="w-full h-auto rounded-2xl" />
         </div>
         <div className="flex flex-row gap-4 bg-muted-foreground/20 p-5 rounded-3xl items-center">
           <div className="flex flex-col gap-2">
-            <img src="/public/assets/betslip1.png" alt="SX Bet" className="w-full h-auto rounded-2xl" />
+            <img src="/assets/betslip1.png" alt="SX Bet" className="w-full h-auto rounded-2xl" />
           </div>
           <div className="flex flex-col gap-2">
-            <img src="/public/assets/betslip2.png" alt="SX Bet" className="w-full h-auto rounded-2xl" />
-            <img src="/public/assets/success.png" alt="SX Bet" className="w-full h-auto rounded-2xl" />
+            <img src="/assets/betslip2.png" alt="SX Bet" className="w-full h-auto rounded-2xl" />
+            <img src="/assets/success.png" alt="SX Bet" className="w-full h-auto rounded-2xl" />
           </div>
         </div>
       </div>
@@ -34,21 +34,21 @@ function App() {
           XRPL powered crypto exchange with a focus on simplicity and efficiency.
         </p>
         <div className="rounded-3xl overflow-hidden bg-muted-foreground/20 p-5 mb-5">
-          <img src="/public/assets/nx.png" alt="SX Bet" className="w-full h-auto rounded-2xl" />
+          <img src="/assets/nx.png" alt="SX Bet" className="w-full h-auto rounded-2xl" />
         </div>
         <div className="rounded-3xl overflow-hidden bg-muted-foreground/20 p-5 mb-5">
-          <img src="/public/assets/nx.png" alt="SX Bet" className="w-full h-auto rounded-2xl" />
+          <img src="/assets/nx.png" alt="SX Bet" className="w-full h-auto rounded-2xl" />
         </div>
         <div className="flex flex-row gap-4 bg-muted-foreground/20 p-5 rounded-3xl items-center">
           <div className="flex flex-col gap-2">
-            <img src="/public/assets/nx-thumb.png" alt="SX Bet" className="w-full h-auto rounded-2xl" />
+            <img src="/assets/nx-thumb.png" alt="SX Bet" className="w-full h-auto rounded-2xl" />
           </div>
           <div className="flex flex-col gap-2">
-            <img src="/public/assets/nx-thumb2.png" alt="SX Bet" className="w-full h-auto rounded-2xl" />
+            <img src="/assets/nx-thumb2.png" alt="SX Bet" className="w-full h-auto rounded-2xl" />
           </div>
         </div>
         <div className="rounded-3xl overflow-hidden bg-muted-foreground/20 p-5 mb-5">
-          <img src="/public/assets/nx3.png" alt="SX Bet" className="w-full h-auto rounded-2xl" />
+          <img src="/assets/nx3.png" alt="SX Bet" className="w-full h-auto rounded-2xl" />
         </div>
       </div>
     </>
